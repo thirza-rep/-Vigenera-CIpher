@@ -13,8 +13,8 @@ Proyek ini merupakan implementasi sederhana dari algoritma **Vigenère Cipher** 
 ## 💡 Contoh Penggunaan
 
 ```python
-message = "mata air kehidupan"
-keyword = "mataram"
+message = "saya m thirza salendra dari sumatra selatan"
+keyword = "sriwijaya"
 📤 Hasil:
 
 yaml
